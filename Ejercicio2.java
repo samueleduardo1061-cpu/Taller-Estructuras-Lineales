@@ -35,7 +35,7 @@ public class Ejercicio2 {
                     System.out.print(", ");
                 }
             }
-            System.out.println(); // Salto al terminar cada línea
+            System.out.println(); //salto de linea.
         }
     }
 }
